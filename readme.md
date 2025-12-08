@@ -2,6 +2,7 @@
 
 Dokumen ini berisi pedoman struktur file dan detail kriteria penilaian untuk tugas mingguan. Harap dibaca dengan seksama sebelum mengedit file.
 
+
 ---
 
 ## ⚠️ PENTING: ATURAN STRUKTUR FILE
